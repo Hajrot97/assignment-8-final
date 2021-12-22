@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "Name": "Taissa Farmiga",
+        "Role": "Sister Irener",
+        "Age": "27",
+        "Country": "USA",
+        "Salary": 500000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Taissa_Farmiga_%282016%29_%28cropped%29.jpg/220px-Taissa_Farmiga_%282016%29_%28cropped%29.jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Bonnie Aarons",
+        "Role": "The Nun",
+        "Age": "63",
+        "Country": "USA",
+        "Salary": 600000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bonnie_Aarons_at_Tara_Cardinal%27s_Japan_Relief_Celebrity_Event.jpg/220px-Bonnie_Aarons_at_Tara_Cardinal%27s_Japan_Relief_Celebrity_Event.jpg"
+    },
+    {
+        "id": 3,
+        "Name": "Demián Bichir",
+        "Role": "Father Burke",
+        "Age": "58",
+        "Country": "Mexico",
+        "Salary": 700000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Demi%C3%A1n_Bichir_by_Gage_Skidmore.jpg/220px-Demi%C3%A1n_Bichir_by_Gage_Skidmore.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Jonas Bloquet",
+        "Role": "Frenchie",
+        "Age": "29",
+        "Country": "Belgium",
+        "Salary": 800000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jonas_Bloquet_dej_2017.jpg/220px-Jonas_Bloquet_dej_2017.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Ingrid Bisu",
+        "Role": "Sister Oana",
+        "Age": "34",
+        "Country": "Romania",
+        "Salary": 900000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ingrid_Bi%C8%99u_2016.jpg/220px-Ingrid_Bi%C8%99u_2016.jpg"
+    },
+    {
+        "id": 6,
+        "Name": "Sandra Rosko",
+        "Role": "Captured Nun",
+        "Age": "34",
+        "Country": "Canadia",
+        "Salary": 1000000,
+        "img": "https://www.xappie.com/uploads/movies/tech_1585042.jpg"
+    },
+    {
+        "id": 7,
+        "Name": "Lili Bordán",
+        "Role": "Marta",
+        "Age": "39",
+        "Country": "USA",
+        "Salary": 1100000,
+        "img": "https://i.pinimg.com/564x/cf/f3/4a/cff34a139f6f550a140e8c452e306060.jpg"
+    },
+    {
+        "id": 8,
+        "Name": "Corin Hardy",
+        "Role": "Director",
+        "Age": "46",
+        "Country": "Romania",
+        "Salary": 1200000,
+        "img": "https://pbs.twimg.com/profile_images/1123733645729120256/I1ARpSYX_400x400.jpg"
+    },
+    {
+        "id": 9,
+        "Name": "Gary Dauberman",
+        "Role": "Screenwriter",
+        "Age": "65",
+        "Country": "USA",
+        "Salary": 1300000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/South_by_Southwest_2019_8_Gary_Dauberman_%2847338962232%29_%28cropped%29_%28cropped%29.jpg/220px-South_by_Southwest_2019_8_Gary_Dauberman_%2847338962232%29_%28cropped%29_%28cropped%29.jpg"
+    },
+    {
+        "id": 10,
+        "Name": "James Wan",
+        "Role": "Screen Story Writer",
+        "Age": "44",
+        "Country": "China",
+        "Salary": 1400000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/James_Wan_by_Gage_Skidmore_2.jpg/220px-James_Wan_by_Gage_Skidmore_2.jpg"
+    },
+    {
+        "id": 11,
+        "Name": "Peter Safran",
+        "Role": "Producer",
+        "Age": "56",
+        "Country": "USA",
+        "Salary": 1500000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PETER_SAFRAN_01.jpg/220px-PETER_SAFRAN_01.jpg"
+    },
+    {
+        "id": 12,
+        "Name": "Todd Williams",
+        "Role": "Line Producer",
+        "Age": "44",
+        "Country": "USA",
+        "Salary": 1600000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Todd_Williams_%28American_actor%2C_born_September_11%29_on_June_15%2C_2013.jpg/220px-Todd_Williams_%28American_actor%2C_born_September_11%29_on_June_15%2C_2013.jpg"
+    },
+    {
+        "id": 14,
+        "Name": "Ken Blackwell",
+        "Role": "Film Editor",
+        "Age": "55",
+        "Country": "USA",
+        "Salary": 1800000,
+        "img": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ken-blackwell-iein073751-29-08-2018-16-03-39.jpg"
+    },
+    {
+        "id": 15,
+        "Name": "Abel Korzeniowski",
+        "Role": "Composer: Music",
+        "Age": "49",
+        "Country": "Poland",
+        "Salary": 1900000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Abel_Korzeniowski_at_FMF_byVetulani_01.JPG/300px-Abel_Korzeniowski_at_FMF_byVetulani_01.JPG"
+    },
+    {
+        "id": 16,
+        "Name": "Richard Brener",
+        "Role": "Executive Producer",
+        "Age": "69",
+        "Country": "USA",
+        "Salary": 2000000,
+        "img": "https://nettv4u.com/imagine/r/i/c/h/a/r/richard-brener.jpg"
+    },
+    {
+        "id": 17,
+        "Name": "Julie Anne Wight",
+        "Role": "Production Crew",
+        "Age": "59",
+        "Country": "USA",
+        "Salary": 2100000,
+        "img": "https://1.bp.blogspot.com/-UUcZj1X1UO8/XWzUfI25-dI/AAAAAAAAB-4/91yHWZW8CZkdjIf_GGEAsM93203teN6-wCLcBGAs/s1600/Julie%2BAnne-min.jpg"
+    }
+]
